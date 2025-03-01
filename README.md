@@ -3,6 +3,9 @@
 ## Overview
 This repository contains a from-scratch implementation of the Transformer model, based on the seminal paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) by Vaswani et al. The model is built using Python and PyTorch, without relying on high-level libraries like Hugging Face's `transformers`.
 
+
+![Transformer Architecture](images/Transformer.png)
+****
 ## Features
 - Implements the complete Transformer architecture
 - Includes **multi-head self-attention**, **positional encodings**, and **feed-forward networks**
